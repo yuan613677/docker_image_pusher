@@ -7,4 +7,9 @@
 #tomcat
 #mysql
 #zabbix/zabbix-agent:6.4-ubuntu-latest
-mirrorgooglecontainers/defaultbackend-amd64:1.4
+#mirrorgooglecontainers/defaultbackend-amd64:1.4
+
+#K8S-2024
+kubesphere/kube-rbac-proxy:v0.11.0
+prom/node-exporter:v1.3.1
+
