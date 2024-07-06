@@ -4,5 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alistom
-tomcat
-mysql
+#tomcat
+#mysql
+zabbix/zabbix-agent:6.4-ubuntu-latest
