@@ -15,4 +15,5 @@
 
 
 ##测试
-k8scn/kubernetes-dashboard-amd64:v1.8.3
+#k8scn/kubernetes-dashboard-amd64:v1.8.3
+rancher/rancher:v2.8-19edfa8c2e6b1701441ad21105a99e3782c6ccb7-linux-amd64
