@@ -17,6 +17,7 @@
 ##测试
 #k8scn/kubernetes-dashboard-amd64:v1.8.3
 #rancher/rancher:v2.8-19edfa8c2e6b1701441ad21105a99e3782c6ccb7-linux-amd64
-docker.io/calico/cni:v3.24.5
-docker.io/calico/node:v3.24.5
-docker.io/calico/kube-controllers:v3.24.5
+#docker.io/calico/cni:v3.24.5
+#docker.io/calico/node:v3.24.5
+#docker.io/calico/kube-controllers:v3.24.5
+mysql:8.0
