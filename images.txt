@@ -23,4 +23,6 @@
 #mysql:8.0
 #rancher/rancher-agent:v2.5.7
 #rancher/rancher:v2.5.7
-rancher/rancher:v2.4.17
+#rancher/rancher:v2.4.17
+kubernetesui/dashboard:v2.0.0
+kubernetesui/metrics-scraper:v1.0.4
