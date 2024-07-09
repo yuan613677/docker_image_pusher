@@ -15,14 +15,10 @@
 
 
 ##测试
-#k8scn/kubernetes-dashboard-amd64:v1.8.3
-#rancher/rancher:v2.8-19edfa8c2e6b1701441ad21105a99e3782c6ccb7-linux-amd64
-#docker.io/calico/cni:v3.24.5
-#docker.io/calico/node:v3.24.5
-#docker.io/calico/kube-controllers:v3.24.5
-#mysql:8.0
-#rancher/rancher-agent:v2.5.7
-#rancher/rancher:v2.5.7
-#rancher/rancher:v2.4.17
-kubernetesui/dashboard:v2.0.0
-kubernetesui/metrics-scraper:v1.0.4
+k8s.gcr.io/kube-apiserver:v1.23.17
+k8s.gcr.io/kube-controller-manager:v1.23.17
+k8s.gcr.io/kube-scheduler:v1.23.17
+k8s.gcr.io/kube-proxy:v1.23.17
+k8s.gcr.io/pause:3.6
+k8s.gcr.io/etcd:3.5.1-0
+k8s.gcr.io/coredns/coredns:v1.8.6
