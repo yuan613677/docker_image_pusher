@@ -21,4 +21,4 @@
 #nginx
 #tomcat
 #quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.30.0
-rbac.authorization.k8s.io/v1beta1
+k8s.gcr.io/ingress-nginx/controller:v1.2.1@sha256:5516d103a9c2ecc4f026efbd4b40662ce22dc1f824fb129ed121460aaa5c47f8
